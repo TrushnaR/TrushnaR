@@ -1,4 +1,4 @@
-
+![logo](https://github.com/TrushnaR/TrushnaR/blob/main/COVER.png)
 <h1 align="center">Hi 👋, I'm Trushna Rahulgade</h1>
 <h3 align="center"> 👨‍💻 Passionate as a Data Analyst, PowerBI Developer| Constantly Learning and Growing 🚀</h3>
 
