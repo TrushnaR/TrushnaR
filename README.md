@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Trushna Rahulgade</h1>
 <h3 align="center">### 👨‍💻 Passionate as a Data Analyst, PowerBI Developer| Constantly Learning and Growing 🚀</h3>
 
-<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F615374736573846166%2F&psig=AOvVaw2vLIejAQComDfpSPr73X_E&ust=1705565195275000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOihl9b744MDFQAAAAAdAAAAABAD">
+<img align="right" alt="coding" width="400"src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trushnar&label=Profile%20views&color=0e75b6&style=flat" alt="trushnar" /> </p>
 
